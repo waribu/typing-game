@@ -1,6 +1,6 @@
 # The Typing Game
 
-- this game is built using HTML , minimal css (for now) and vanilla javascript 
+### This game is built using HTML , minimal css (for now) and vanilla javascript 
 
 The game is going to test a player's typing skill, which is one of the most underrated skills all developers should have. 
 We should all be practicing our typing! The general flow of the game will look like this:

@@ -2,6 +2,9 @@
 
 body {
   font-family: "poppins", sans-serif;
+  background-image: url(/assets/dd.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .highlight {

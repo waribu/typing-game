@@ -1,6 +1,12 @@
-/* inside style.css */
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:ital,wght@0,400;0,500;1,400&display=swap");
+
+body {
+  font-family: "poppins", sans-serif;
+}
+
 .highlight {
   background-color: yellow;
+  color: black;
 }
 
 .error {

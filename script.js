@@ -49,7 +49,6 @@ document.getElementById('start').addEventListener('click', () => {
   startTime = new Date().getTime();
 });
 
-// at the end of script.js
 typedValueElement.addEventListener('input', () => {
   // Get the current word
   const currentWord = words[wordIndex];

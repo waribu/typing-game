@@ -12,5 +12,5 @@ We should all be practicing our typing! The general flow of the game will look l
 - If the player has a typo, the textbox is updated to red
 - When the player completes the quote, a success message is displayed with the elapsed time
 
-Photo by <a href="https://unsplash.com/@mohamadaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">mohammad alizade</a> on <a href="https://unsplash.com/s/photos/minimal-wallpaper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+Background Photo by <a href="https://unsplash.com/@mohamadaz?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">mohammad alizade</a> on <a href="https://unsplash.com/s/photos/minimal-wallpaper?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
